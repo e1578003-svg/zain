@@ -1,12 +1,35 @@
 <doctype html!>
 <html lang="en>
   <head>
-    <"meta charset="UTF-8">
+    <"meta charset="UTF-8>
     <meta name="viewport">
 content="width=device-width,<initial-scale=1.0>
-    <title>Youware App</title>
-<head/>
-<body>
+    <title> splash screen </title>
+                          <style>
+                        } body
+          
+               ;margin: 0
+*/ background-color#0000cd
+                        /*  الازرق التوسط
+              ;height:100vh
+              ;display:flex
+      ;jusify-content:center    
+          ;align-items
+;form- famly:arial,sans-serif
+               ;color:white 
+             ;front-size:32px
+                                    {
+                                 <style/>
+                                  <hscript>
+                      الانتقال بعد 5 ثواني//
+} ()set imeout(funcation window.location. herf = 
+                                              ;""page2.html
+                                           ;(5000 ,{ 
+                                              <script/>
+                                               <body/>
+                                                  مرحبا بك
+                                                 <body>
+                                                  <html/>
+                                           <html/>
 
-<body/>
-<html/>
+
